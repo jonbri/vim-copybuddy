@@ -1,0 +1,16 @@
+*copybuddy.txt*  Auto-copy files around
+
+Author:  Jonathan Brink
+License: Same terms as Vim itself (see |license|)
+
+INTRODUCTION                                    *copybuddy*
+
+Using a simple path-matching file, copy files upon saving a buffer.
+
+ABOUT                                           *amperage-about*
+
+Grab the latest version or report a bug on GitHub:
+
+https://github.com/jonbri/vim-copybuddy
+
+ vim:tw=78:et:ft=help:norl:
